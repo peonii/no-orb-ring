@@ -1,3 +1,3 @@
-# No Orb Ring
+# No Orb Effects
 
-Disable the orb ring when touching an orb for the first time.
+Disable orb related effects.

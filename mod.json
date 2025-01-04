@@ -1,18 +1,24 @@
 {
-	"geode": "4.1.1",
+	"geode": "4.1.2",
 	"gd": {
 		"win": "2.2074"
 	},
 	"id": "peony.no-orb-ring",
-	"name": "No Orb Ring",
-	"version": "v1.0.0",
+	"name": "No Orb Effects",
+	"version": "v1.0.1",
 	"developer": "peony",
-	"description": "Disables the ring when first touching an orb.",
+	"description": "Disable orb related effects.",
 	"settings": {
-		"is-enabled": {
+		"disable-orb-ring": {
 			"type": "bool",
-			"name": "Enabled",
-			"description": "You may disable the mod with this option without having to restart the game.",
+			"name": "Disable Orb Ring",
+			"description": "Disable the orb ring that happens when you touch an orb.",
+			"default": true
+		},
+		"disable-dash-boom": {
+			"type": "bool",
+			"name": "Disable Dash Boom",
+			"description": "Disable the boom effect that happens when you start dashing.",
 			"default": true
 		}
 	},

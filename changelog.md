@@ -1,2 +1,5 @@
+# 1.0.1
+- Add dash boom effect
+
 # 1.0.0
-- Make the mod (lol)
+- Add orb ring effect

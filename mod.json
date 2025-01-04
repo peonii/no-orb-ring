@@ -1,0 +1,22 @@
+{
+	"geode": "4.1.1",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "peony.no-orb-ring",
+	"name": "No Orb Ring",
+	"version": "v1.0.0",
+	"developer": "peony",
+	"description": "Disables the ring when first touching an orb.",
+	"settings": {
+		"is-enabled": {
+			"type": "bool",
+			"name": "Enabled",
+			"description": "You may disable the mod with this option without having to restart the game.",
+			"default": true
+		}
+	},
+	"tags": [
+		"gameplay", "offline", "performance"
+	]
+}
